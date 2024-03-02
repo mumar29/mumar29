@@ -1,13 +1,16 @@
 # Hi there, I'm Miraal 👋
 🔭 I’m currently working on:
-Enhancing my skills in full-stack web development with the MERN stack.
-Exploring machine learning concepts and algorithms.
+<br>
+<li>Enhancing my skills in full-stack web development with the MERN stack.</li>
+<li></li>Exploring machine learning concepts and algorithms.</li>
 <br>
 🌱 I’m currently learning:
+<br>
 Machine Learning and its applications in various domains.
 Advanced concepts in React.js for building interactive user interfaces
 <br>
 🤝 I’m looking to collaborate on:
+<br>
 React.js projects
 Web development projects
 MERN stack projects

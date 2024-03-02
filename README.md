@@ -1,20 +1,22 @@
 # Hi there, I'm Miraal 👋
 🔭 I’m currently working on:
 <br>
--Enhancing my skills in full-stack web development with the MERN stack.
+<li>Enhancing my skills in full-stack web development with the MERN stack.</li>
 <li>Exploring machine learning concepts and algorithms.</li>
 <br>
 🌱 I’m currently learning:
 <br>
-Machine Learning and its applications in various domains.
-Advanced concepts in React.js for building interactive user interfaces
+<li>Machine Learning and its applications in various domains.</li>
+<li>Advanced concepts in React.js for building interactive user interfaces</li>
 <br>
 🤝 I’m looking to collaborate on:
 <br>
-React.js projects
-Web development projects
-MERN stack projects
-## 🌐 Socials:
+<li>React.js projects</li>
+<li>Web development projects</li>
+<li>MERN stack projects</li>
+<br>
+# 🌐 Socials:
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/miraal-umar-4388b5238) 
 
 # 💻 Tech Stack:
@@ -24,7 +26,7 @@ MERN stack projects
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mumar29&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mumar29&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

@@ -13,7 +13,10 @@
 <li>React.js projects</li>
 <li>Web development projects</li>
 <li>MERN stack projects</li>
-
+<br>
+💭 Ask Me About:
+<br>
+<li>The MERN stack</li>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/miraal-umar-4388b5238) 
@@ -28,7 +31,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mumar29&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️
+### ✍️ Random Dev Quote Generator
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
